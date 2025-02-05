@@ -1,5 +1,5 @@
 ---
-name: Question/Comment on this U.S. Tax Court RFQ
+name: Question about this U.S. Tax Court RFQ
 about: Use this issue template to ask a question about this RFQ. We will answer questions
   via comments within the issue, and they will remain open until the conclusion of
   the solicitation process.
