@@ -15,7 +15,7 @@ assignees: ''
 
 [Please enter your name and your affiliation here.]
 
-## Section of RFQ documents
+## Section, paragraph, or clause of RFQ documents
 
 [Please indicate which section of the RFQ documents]
 
