@@ -8,7 +8,7 @@ The United States Tax Court is an independent Federal court headquartered in Was
 
 1. [RFQ Document](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/a2448efd5ccedeb97a0085e203da338c4cf236be/Digital%20Environment%20RFQ.pdf)
 1. [Attachment B-1 Price Schedule](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/a2448efd5ccedeb97a0085e203da338c4cf236be/Attachment%20B-1%20Price%20Schedule.xlsx)
-1. [Attachment C-1 Technical Qualifications](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/a2448efd5ccedeb97a0085e203da338c4cf236be/Attachment%20C-1%20Technical%20Qualifications.xlsx)
+1. [Attachment C-1 Technical Qualifications](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/d9a70cfc0cc0e171f9a93740b77bc02ae33becb0/Attachment%20C-1%20Technical%20Qualifications.xlsx)
 1. [Attachment C-2 Software Vendors](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/a2448efd5ccedeb97a0085e203da338c4cf236be/Attachment%20C-2%20Software%20Vendors.pdf)
 1. [Attachment H-1 Labor Category Descriptions](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/a2448efd5ccedeb97a0085e203da338c4cf236be/Attachment%20H-1%20LCAT%20Descriptions.pdf)
 
