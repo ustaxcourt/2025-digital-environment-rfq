@@ -6,14 +6,11 @@ The United States Tax Court is an independent Federal court headquartered in Was
 
 ## Table of Contents
 
-This section is still a work in progress
-
 1. RFQ Document
-1. Attachments
-1. Attachments
-1. Appendix A: Description of the Tax Court
-1. Appendix B: Case Processing Workflows
-1. Pricing Template
+1. Attachment B-1 Price Schedule
+1. Attachment C-1 Technical Qualifications
+1. Attachment C-2 Software Vendors
+1. Attachment H-1 Labor Category Descriptions
 
 ## Submit a Question
 
