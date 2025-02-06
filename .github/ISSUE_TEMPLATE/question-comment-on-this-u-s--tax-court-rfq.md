@@ -9,7 +9,7 @@ assignees: ''
 
 ---
 
-# Question/Comment on this U.S. Tax Court RFQ
+# Question about this U.S. Tax Court RFQ
 
 ## Name and affiliation
 
