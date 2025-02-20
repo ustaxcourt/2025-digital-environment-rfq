@@ -4,6 +4,12 @@
 
 The United States Tax Court is an independent Federal court headquartered in Washington, D.C. The Court provides a national forum for the formal adjudication of disputes between taxpayers and the Internal Revenue Service.
 
+# Industry Day
+
+Industry Day for this opportunity is on February 26, 2025 from 10:00am – 3:00pm ET in the North Courtroom of the US Tax Court’s main location at 400 Second Street, NW, Washington, DC 20217. Detailed information about the Court and this solicitation will be shared and group Q&A sessions will provide attendees with the opportunity to ask questions directly to the Court POCs.
+
+Interested offerors may register for Industry Day by E-mailing [itprocurement@ustaxcourt.gov](mailto:itprocurement@ustaxcourt.gov) by February 21, 2025. Use subject line: “Industry Day Registration: Digital Environment”. Please share the number of attendees in your party and questions in advance where possible.
+
 ## Table of Contents
 
 1. [RFQ Document](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/a2448efd5ccedeb97a0085e203da338c4cf236be/Digital%20Environment%20RFQ.pdf)
@@ -22,3 +28,14 @@ If you would like to submit a question to this RFQ, please [submit a new issue](
 2. Click the green "New issue" button
 3. Choose the "Question about this U.S. Tax Court RFQ" option
 4. Fill in the body of the issue and click Create
+
+## Key Dates
+
+| Event                                        | Date              |
+| -------------------------------------------- | ----------------- |
+| Issuance of RFQ on the Court’s GitHub        | February 6, 2025  |
+| RSVP for Industry Day                        | February 21, 2025 |
+| Industry Day at the Court’s Washington DC HQ | February 26, 2025 |
+| Cutoff for questions/inquiries               | February 27, 2025 |
+| RFQ Closes                                   | March 5, 2025     |
+| Final Award Notification                     | March 14, 2025    |
