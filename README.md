@@ -4,7 +4,7 @@
 
 The United States Tax Court is an independent Federal court headquartered in Washington, D.C. The Court provides a national forum for the formal adjudication of disputes between taxpayers and the Internal Revenue Service.
 
-# Industry Day
+## Industry Day
 
 Industry Day for this opportunity is on February 26, 2025 from 10:00am – 3:00pm ET in the North Courtroom of the US Tax Court’s main location at 400 Second Street, NW, Washington, DC 20217. Detailed information about the Court and this solicitation will be shared and group Q&A sessions will provide attendees with the opportunity to ask questions directly to the Court POCs.
 
