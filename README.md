@@ -4,11 +4,7 @@
 
 The United States Tax Court is an independent Federal court headquartered in Washington, D.C. The Court provides a national forum for the formal adjudication of disputes between taxpayers and the Internal Revenue Service.
 
-The Court amended the RFQ on 2/20/2025. The following changes have been made:
-
-- Changes to RFQ Document: [forthcoming]
-- Changes to Attachment C-1: [forthcoming]
-- Changes to Attachment H-1: [forthcoming]
+The Court amended the RFQ on 2/22/2025. The RFQ Document, Attachment C-1 Technical Qualifications, and Attachment H-1 Labor Category Descriptions were amended. Changes to each are detailed in the [List of Amendments](./List%20of%20Amendments%2002222025.xlsx).
 
 ## Industry Day
 
@@ -18,11 +14,12 @@ Interested offerors may register for Industry Day by E-mailing [itprocurement@us
 
 ## Table of Contents
 
-1. [RFQ Document amended](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/a2448efd5ccedeb97a0085e203da338c4cf236be/Digital%20Environment%20RFQ.pdf)
+1. [RFQ Document amended](./Digital%20Environment%20RFQ%20amended.pdf)
 1. [Attachment B-1 Price Schedule](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/a2448efd5ccedeb97a0085e203da338c4cf236be/Attachment%20B-1%20Price%20Schedule.xlsx)
-1. [Attachment C-1 Technical Qualifications amended](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/d9a70cfc0cc0e171f9a93740b77bc02ae33becb0/Attachment%20C-1%20Technical%20Qualifications.xlsx)
+1. [Attachment C-1 Technical Qualifications amended](./Attachment%20C-1%20Technical%20Qualifications%20amended.xlsx)
 1. [Attachment C-2 Software Vendors](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/a2448efd5ccedeb97a0085e203da338c4cf236be/Attachment%20C-2%20Software%20Vendors.pdf)
-1. [Attachment H-1 Labor Category Descriptions amended](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/a2448efd5ccedeb97a0085e203da338c4cf236be/Attachment%20H-1%20LCAT%20Descriptions.pdf)
+1. [Attachment H-1 Labor Category Descriptions amended](./Attachment%20H-1%20LCAT%20Descriptions%20amended.pdf)
+1. [List of Amendments](./List%20of%20Amendments%2002222025.xlsx)
 
 ## Submit a Question
 
