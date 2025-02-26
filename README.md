@@ -41,5 +41,5 @@ If you would like to submit a question to this RFQ, please [submit a new issue](
 | RSVP for Industry Day                        | February 21, 2025 |
 | Industry Day at the Court’s Washington DC HQ | February 26, 2025 |
 | Cutoff for questions/inquiries               | February 27, 2025 |
-| RFQ Closes                                   | March 5, 2025     |
+| RFQ Closes                                   | March 7, 2025     |
 | Final Award Notification                     | March 14, 2025    |
