@@ -20,6 +20,7 @@ Interested offerors may register for Industry Day by E-mailing [itprocurement@us
 1. [Attachment C-2 Software Vendors](https://github.com/ustaxcourt/2025-digital-environment-rfq/blob/a2448efd5ccedeb97a0085e203da338c4cf236be/Attachment%20C-2%20Software%20Vendors.pdf)
 1. [Attachment H-1 Labor Category Descriptions amended](./Attachment%20H-1%20LCAT%20Descriptions%20amended.pdf)
 1. [List of Amendments](./List%20of%20Amendments%2002222025.xlsx)
+1. [Industry Day Slides](./Industry%20Day%20slides.pdf)
 
 ## Submit a Question
 
