@@ -6,7 +6,7 @@ The United States Tax Court is an independent Federal court headquartered in Was
 
 The Court amended the RFQ on 2/28/2025. The RFQ Document, Attachment C-1 Technical Qualifications, and Attachment H-1 Labor Category Descriptions were amended. Changes to each are detailed in the [List of Amendments](./List%20of%20Amendments.xlsx).
 
-__*The deadline for the submission of questions has been extended to noon, Eastern Time on Monday, March 3, 2025. Responses to all timely submitted questions will be provided as a response to the initial issue posted on GitHub by March 4, 2025.*__
+**_The deadline for the submission of questions has been extended to noon, Eastern Time on Monday, March 3, 2025. Responses to all timely submitted questions will be provided as a response to the initial issue posted on GitHub by March 4, 2025._**
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ __*The deadline for the submission of questions has been extended to noon, Easte
 1. [Attachment H-1 Labor Category Descriptions amended](./Attachment%20H-1%20LCAT%20Descriptions%20amended.pdf)
 1. [List of Amendments](./List%20of%20Amendments.xlsx)
 1. [Industry Day Slides](./Industry%20Day%20slides.pdf)
-1. Questions and Answers from Industry Day (_Coming soon_)
+1. [Questions and Answers from Industry Day](./Industry%20Day%20Q&A.pdf)
 
 ## Submit a Question
 
