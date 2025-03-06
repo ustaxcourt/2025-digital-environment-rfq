@@ -4,7 +4,7 @@
 
 The United States Tax Court is an independent Federal court headquartered in Washington, D.C. The Court provides a national forum for the formal adjudication of disputes between taxpayers and the Internal Revenue Service.
 
-**_The Court amended the RFQ on 3/6/2025. Section H of the RFQ Document was amended. The changeis detailed in the [List of Amendments](./List%20of%20Amendments.xlsx)._**
+**_The Court amended the RFQ on 3/6/2025. Section H of the RFQ Document was amended. The change is detailed in the [List of Amendments](./List%20of%20Amendments.xlsx)._**
 
 ## Table of Contents
 
