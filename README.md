@@ -1,10 +1,10 @@
-# United States Tax Court - 2025 Digital Environment RFQ amended 2/28/2025
+# United States Tax Court - 2025 Digital Environment RFQ amended 3/6/2025
 
 ## Introduction
 
 The United States Tax Court is an independent Federal court headquartered in Washington, D.C. The Court provides a national forum for the formal adjudication of disputes between taxpayers and the Internal Revenue Service.
 
-The Court amended the RFQ on 2/28/2025. The RFQ Document, Attachment C-1 Technical Qualifications, and Attachment H-1 Labor Category Descriptions were amended. Changes to each are detailed in the [List of Amendments](./List%20of%20Amendments.xlsx).
+The Court amended the RFQ on 3/6/2025. The RFQ Document, Attachment C-1 Technical Qualifications, and Attachment H-1 Labor Category Descriptions were amended. Changes to each are detailed in the [List of Amendments](./List%20of%20Amendments.xlsx).
 
 **_The deadline for the submission of questions has been extended to noon, Eastern Time on Monday, March 3, 2025. Responses to all timely submitted questions will be provided as a response to the initial issue posted on GitHub by March 4, 2025._**
 
