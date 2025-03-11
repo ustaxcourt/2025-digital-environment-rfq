@@ -4,7 +4,7 @@
 
 The United States Tax Court is an independent Federal court headquartered in Washington, D.C. The Court provides a national forum for the formal adjudication of disputes between taxpayers and the Internal Revenue Service.
 
-**_The Court amended the RFQ on 3/6/2025. Section H of the RFQ Document was amended. The change is detailed in the [List of Amendments](./List%20of%20Amendments.xlsx)._**
+**_The final award notification date has been moved to March 21, 2025._**
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ If you would like to submit a question to this RFQ, please [submit a new issue](
 | Industry Day at the Court’s Washington DC HQ | February 26, 2025           |
 | Cutoff for questions/inquiries               | 12pm Eastern, March 3, 2025 |
 | RFQ Closes                                   | March 7, 2025               |
-| Final Award Notification                     | March 14, 2025              |
+| Final Award Notification                     | March 21, 2025              |
 
 ## Industry Day
 
